@@ -1,4 +1,4 @@
-﻿# REST API SDK for Dotnet V2
+﻿# REST API SDK for .NET 5.0 Webapi V2 (http client factory optimized)
 
 ![Home Image](homepage.jpg)
 
